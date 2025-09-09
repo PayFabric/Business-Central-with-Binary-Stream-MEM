@@ -1,11 +1,14 @@
 ## PayFabric MEM Connector
 
-Provide a connector for third-party developers to support MEM (Binary Stream's Multi-Entity Management (NA)) app
+This repository provides a connector for third-party developers to integrate with the **MEM** app (Binary Stream’s Multi-Entity Management (NA)) and **PayFabric**.
 
-## Start developing PayFabric MEM Connector in VS Code
+## Getting Started
+Follow these steps to start developing with the PayFabric MEM Connector in Visual Studio Code:
 
-1. Copy **https Clone Url**
-2. Start **Visual Studio Code**, press **Ctrl+Shift+P** and select **Git:Clone**, paste the clone URL and select a folder in which you want to clone the directory.
-3. **Open the cloned repository** and open **app.json**. On the **dependencies** setting, change the version number of the PayFabric and MEM apps which you installed.
+
+1. Copy the repository’s **HTTPS clone URL**.
+2. Open **Visual Studio Code**, press **Ctrl+Shift+P**, select **Git: Clone**, paste the clone URL, and choose a folder where you want to clone the repository.
+3. **Open the cloned repository**
+4. Navigate to **app.json** and update the **dependencies** section to match the version numbers of the PayFabric and MEM apps you have installed.
    <img width="1136" height="922" alt="image" src="https://github.com/user-attachments/assets/21f7eacd-ba49-4503-be42-495e29031d5f" />
 
