@@ -1,0 +1,45 @@
+{
+  "id": "a11b7c34-d68c-4f0d-a1e4-a922bdb96cd6",
+  "name": "PayFabric MEM Connector",
+  "publisher": "Nodus Technologies, Inc.",
+  "version": "1.0.0.0",
+  "brief": "",
+  "description": "",
+  "privacyStatement": "",
+  "EULA": "",
+  "help": "",
+  "url": "",
+  "logo": "",
+  "dependencies": [
+    {
+      "id": "96a49c0c-8183-4248-9630-636462acfa39",
+      "name": "PayFabric - Secure Credit Card Processing",
+      "publisher": "Nodus Technologies, Inc.",
+      "version": "26.2.0.0"
+    },
+    {
+      "id": "e7e4551c-46e4-40a0-98aa-d33dc1d10bde",
+      "name": "Multi-Entity Management (NA)",
+      "publisher": "Binary Stream Software Inc.",
+      "version": "1.1.145.1"
+    }
+  ],
+  "screenshots": [],
+  "platform": "1.0.0.0",
+  "application": "26.0.0.0",
+  "idRanges": [
+    {
+      "from": 70100,
+      "to": 70149
+    }
+  ],
+  "resourceExposurePolicy": {
+    "allowDebugging": true,
+    "allowDownloadingSource": true,
+    "includeSourceInSymbolFile": true
+  },
+  "runtime": "15.0",
+  "features": [
+    "NoImplicitWith"
+  ]
+}
