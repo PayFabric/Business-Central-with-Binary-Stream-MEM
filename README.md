@@ -1,6 +1,6 @@
 ## PayFabric MEM Connector
 
-Provide a connector for third-party developers to supporting MEM (Binary Stream's Multi-Entity Management (NA)) app
+Provide a connector for third-party developers to support MEM (Binary Stream's Multi-Entity Management (NA)) app
 
 ## Start developing PayFabric MEM Connector in VS Code
 
