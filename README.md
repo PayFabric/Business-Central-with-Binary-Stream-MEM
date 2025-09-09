@@ -1,6 +1,16 @@
-## PayFabric MEM Connector
+## Business Central - PayFabric MEM Connector
 
-This repository provides a connector for third-party developers to integrate with the **MEM** app (Binary Stream’s Multi-Entity Management (NA)) and **PayFabric**.
+This repository provides a connector for third-party developers to integrate **PayFabric** with **Binary Stream’s Multi-Entity Management (MEM)** app for Microsoft Dynamics 365 Business Central.
+
+## Prerequisites
+
+Before you start, make sure you have:
+
+- **Business Central Environment** – A Microsoft Dynamics 365 Business Central sandbox or production environment  
+- **MEM App** – Binary Stream Multi-Entity Management (MEM) installed, licensed, and configured  
+- **PayFabric App** – PayFabric extension installed in the same Business Central environment  
+- **Developer Tools** – Visual Studio Code with the AL Language extension  
+- **Repository Access** – Permission to clone this repository using HTTPS or SSH
 
 ## Getting Started
 Follow these steps to start developing with the PayFabric MEM Connector in Visual Studio Code:
