@@ -6,9 +6,9 @@ This repository provides a connector for third-party developers to integrate **P
 
 Before you start, make sure you have:
 
-- **Business Central Environment** – A Microsoft Dynamics 365 Business Central sandbox or production environment  
+- **Business Central Environment** – A Microsoft Dynamics 365 Business Central sandbox or production environment with version 26.0 or higher
 - **MEM App** – Binary Stream Multi-Entity Management (MEM) installed, licensed, and configured  
-- **PayFabric App** – PayFabric extension installed in the same Business Central environment  
+- **PayFabric App** – PayFabric extension (v26.2 or higher) installed in the same Business Central environment  
 - **Developer Tools** – Visual Studio Code with the AL Language extension  
 - **Repository Access** – Permission to clone this repository using HTTPS or SSH
 
